@@ -1,0 +1,4 @@
+FFA
+===
+
+Minebolt FFA plugin
