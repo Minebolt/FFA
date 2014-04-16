@@ -1,0 +1,10 @@
+name: MineBoltFFA
+author: SwiftDustMC
+version: 1.0
+main: com.SwiftDustMC.FFA.FFA
+description: Custom FFA Plugin made for the MineBolt Servers!
+commands:
+  Arenas:
+    usage: /ffa help
+    description: Check config!
+    aliases: [ffa]
